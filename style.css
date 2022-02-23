@@ -1,0 +1,184 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  margin: 3rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.types-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin-right: 5rem;
+}
+
+.pokemon-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  /* width: 100%; */
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.type-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 1rem;
+}
+
+.name {
+  font-size: 3rem;
+  text-transform: capitalize;
+}
+
+.info-button {
+  font-size: 1.5rem;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: red;
+  color: white;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.info-button:hover {
+  color: black;
+}
+
+.info-button:active,
+.info-button:focus {
+  transform: scale(0.98);
+}
+
+.shiny {
+  font-size: 2rem;
+  margin: 1rem 0;
+  padding: 1rem;
+}
+
+/* have basic styling for the type box */
+/* have classes for color / background-color based on the added class */
+
+.type {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: black;
+  font-size: 1.5rem;
+  padding: 1rem;
+  border-radius: 5px;
+  text-transform: capitalize;
+  max-width: 160px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Pokemon Type Styling */
+
+.type.grass {
+  background-color: green;
+}
+
+.type.fire {
+  background-color: red;
+}
+
+.type.fighting {
+  background-color: brown;
+}
+
+.type.water {
+  background-color: blue;
+}
+
+.type.poison {
+  background-color: purple;
+}
+
+.type.steel {
+  background-color: slategray;
+}
+
+.type.dark {
+}
+
+.type.ghost {
+  background-color: mediumslateblue;
+}
+
+.type.electric {
+  background-color: yellow;
+  color: black;
+}
+
+.type.ice {
+  background-color: skyblue;
+}
+
+.type.ground {
+  background-color: tan;
+}
+
+.type.bug {
+  background-color: lightseagreen;
+}
+
+.type.psychic {
+  background-color: palevioletred;
+}
+
+.type.flying {
+  background-color: royalblue;
+}
+
+.type.rock {
+  color: black;
+  background-color: sandybrown;
+}
+
+.type.normal {
+  background-color: snow;
+  color: black;
+}
+
+.type.dragon {
+  background-color: purple;
+}
+
+.type.fairy {
+  background-color: pink;
+}
+
+/* .type.not-covered {
+  opacity: 0.3;
+  background-color: lightslategray;
+  color: black;
+} */
