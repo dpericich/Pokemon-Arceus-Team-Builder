@@ -1,5 +1,7 @@
 # Pokemon-Arceus-Team-Builder
 
+![Pokemon Legends Arceus Cover Photo](/assets/cover-photo.jpeg)
+
 ## Purpose
 
 Gamefreak's new game, Pokemon Legends Arceus, offers an immense new world full of many familiar and some new Pokemon. This open world RPG offers a lot in terms of flexibility, but this freedom can lead to some difficulty in building a team. To combat this I decided to make a team builder app that will allow users to pick their 6 Pokemon for their team and get real time, visual feedback on the type coverage they have.
