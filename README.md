@@ -1,4 +1,4 @@
-# Pokemon-Arceus-Team-Builder
+# Pokemon Arceus Team Builder
 
 ![Pokemon Legends Arceus Cover Photo](/assets/cover-photo.jpeg)
 
@@ -10,7 +10,9 @@ Because of the number Pokemon in the game, **242 at time of release**, it is imp
 
 ## Technologies Used
 
-The backbone of this app is the PokeAPI. From this I got all the information needed to populate team slots and update the type coverage item.
+The backbone of this app is the PokeAPI. From this I got all the information needed to populate team slots and update the type coverage item. I added a script tag for the CDN to the axios package in my main HTML page. This makes it cleaner for making my requests than using the Fetch API.
+
+I thought about using React with this app, but decided to stick with HTML5, CSS and Vanilla JavaScript. React does a lot of cool stuff with creating the reusable components and managing state, but I wanted to focus on object creation, state mangagement and object cleanup with this app. Vanilla JavaScript is a way to force myself to learn these better.
 
 ## Challenges
 
