@@ -1,0 +1,993 @@
+001	Rowlet	Grass / Flying	
+Starter Pokemon
+Coronet Highlands
+Space-time Distortions
+002	Datrix	Grass/Flying	
+Evolve Rowlet
+003	Hisiuan Decidueye	Grass/Fighting	
+Evolve Datrix
+004	Cyndaquil	Fire	
+Starter Pokemon
+Crimson Mirelands
+Space-time Distortions
+005	Quilava	Fire	
+Evolve Cyndaquil
+006	Hisiuan Typhlosion	Fire/Ghost	
+Evolve Quilava
+007	Oshawott	Water	
+Starter Pokemon
+Alabaster Icelands
+Space-time Distortions
+008	Dewott	Water	
+Evolve Dewott
+009	Samurott	Water/Dark	
+Evolve Dewott
+010	Bidoof	Normal	
+Alabaster Icelands
+Avalugg’s Legacy
+Obsidian Fieldlands
+Aspiration Hill, Horseshoe Plains, Tidewater Dam
+Crimson Mirelands
+Gapejaw Bog, Ursa’s Ring, Droning Meadow
+011	Bibarel	Normal/Water	
+Alabaster Icelands
+Avalugg’s Legacy
+Obsidian Fieldlands
+Tidewater Dam
+Cobalt Coastlands
+Spring Path
+Crimson Mirelands
+Gapejaw Bog, Ursa’s Ring, Droning Meadow
+012	Starly	Normal/Flying	
+Cobalt Coastlands
+Ginkgo Landing, Deadwood Haunt
+Obsidian Fieldlands
+Aspiration Hill, Horseshoe Plains, Windswept Run, Tidewater Dam
+013	Staravia	Normal/Flying	
+Cobalt Coastlands
+Ginkgo Landing, Deadwood Haunt
+Obsidian Fieldlands
+Aspiration Hill, Horseshoe Plains, Windswept Run, Tidewater Dam
+014	Staraptor	Normal/Flying	
+Obsidian Fieldlands
+Nature’s Pantry
+Cobalt Coastlands
+Deadwood Haunt
+015	Shinx	Electric	
+Obsidian Fieldlands
+Aspiration Hill, Floaro Gardens, Oreburrow Tunnel
+Coronet Highlands
+Sonorous Path
+016	Luxio	Electric	
+Obsidian Fieldlands
+Floaro Gardens, Oreburrow Tunnel, Sandgem Flats
+Coronet Highlands
+Heavenward Lookout, Sonorous Path, Sacred Plaza, Cloudcap Pass
+017	Luxray	Electric	
+Obsidian Fieldlands
+Sandgem Flats
+Coronet Highlands
+Heavenward Lookout, Sonorous Path, Sacred Plaza, Cloudcap Pass
+018	Wurmple	Bug	
+Obsidian Fieldlands
+Horseshoe Plains, Floaro Gardens, The Heartwood
+019	Silcoon	Bug	
+Obsidian Fieldlands
+Floaro Gardens, The Heartwood
+020	Beautifly	Bug/Flying	
+Obsidian Fieldlands
+Floaro Gardens, The Heartwood, Grueling Grove
+Cobalt Coastlands
+Veilstone Cape
+021	Cascoon	Bug	
+Obsidian Fieldlands
+Floaro Gardens, The Heartwood
+022	Dustox	Bug/Poison	
+Obsidian Fieldlands
+Floaro Gardens, The Heartwood, Grueling Grove
+Cobalt Coastlands
+Veilstone Cape
+023	Ponyta	Fire	
+Obsidian Fieldlands
+Horseshoe Plains
+024	Rapidash	Fire	
+Obsidian Fieldlands
+Horseshoe Plains
+025	Eevee	Normal	
+Alabaster Icelands
+Avalugg’s Legacy, Avalanche Slopes
+Obsidian Fieldlands
+Horseshoe Plains
+Cobalt Coastlands
+Crossing Slope
+026	Vaporeon	Water	
+Evolve Eevee
+027	Jolteon	Electric	
+Evolve Eevee
+028	Flareon	Fire	
+Evolve Eevee
+029	Espeon	Psychic	
+Coronet Highlands
+Space-time Distortions
+030	Umbreon	Dark	
+Crimson Mirelands
+Space-time Distortions
+031	Leafeon	Grass	
+Obsidian Fieldlands
+Space-time Distortions
+032	Glaceon	Ice	
+Evolve Eevee
+033	Sylveon	Fairy	
+Obsidian Fieldlands
+Space-time Distortions
+034	Zubat	Poison/Flying	
+Alabaster Icelands
+Snowpoint Temple
+Obsidian Fieldlands
+Deertrack Path, Nature’s Pantry, The Heartwood, Oreburrow Tunnel
+Coronet Highlands
+Heavenward Lookout, Wayward Cave
+Crimson Mirelands
+Bolderoll Slope, Diamond Heath, Cloudpool Ridge
+035	Golbat	Poison/Flying	
+Alabaster Icelands
+Snowpoint Temple
+Obsidian Fieldlands
+Oreburrow Tunnel
+Coronet Highlands
+Heavenward Lookout, Wayward Cave
+Crimson Mirelands
+Bolderoll Slope, Diamond Heath, Cloudpool Ridge
+036	Crobat	Poison/Flying	
+Alabaster Icelands
+Icebound Falls
+Coronet Highlands
+Wayward Cave
+037	Drifloon	Ghost / Flying	
+Alabaster Icelands
+Avalugg’s Legacy, Glacier Terrace, Heart’s Crag
+Obsidian Fieldlands
+Aspiration Hill, Horseshoe Plains, Floaro Gardens, Ramanas Island
+Cobalt Coastlands
+Ginkgo Landing, Bathers' Lagoon, Deadwood Haunt, Tranquility Cove
+038	Drifblim	Ghost / Flying	
+Alabaster Icelands
+Avalugg’s Legacy, Glacier Terrace, Heart’s Crag
+Obsidian Fieldlands
+Sandgem Flats, Ramanas Island
+Cobalt Coastlands
+Ginkgo Landing, Bathers' Lagoon, Deadwood Haunt, Tranquility Cove
+039	Kricketot	Bug	
+Obsidian Fieldlands
+Deertrack Path, Nature’s Pantry, Windswept Run
+Crimson Mirelands
+Golden Lowlands, Cloudpool Ridge
+040	Kricketune	Bug	
+Obsidian Fieldlands
+Nature’s Pantry
+Crimson Mirelands
+Golden Lowlands, Cloudpool Ridge
+041	Buizel	Water	
+Obsidian Fieldlands
+Horseshoe Plains, Windswept Run, Worm Bridge
+Cobalt Coastlands
+Aipom Hill, Bathers’ Lagoon
+042	Floatzel	Water	
+Obsidian Fieldlands
+Worm Bridge
+Cobalt Coastlands
+Aipom Hill, Bathers’ Lagoon
+043	Burmy	Bug	
+Alabaster Icelands
+Bonechill Wastes, Glacier Terrace, Lake Acuity, Avalanche Slopes
+Obsidian Fieldlands
+Deertrack Path, Deertrack Heights, Nature’s Pantry, Grueling Grove
+Coronet Highlands
+Heavenward Lookout, Celestica Trail, Celestica Ruins, Stonetooth Rows
+Cobalt Coastlands
+Ginkgo Landing, Crossing Slope, Veilstone Cape, Bathers' Lagoon
+Crimson Mirelands
+Golden Lowlands, Gapejaw Bog, Cloudpool Ridge, Shrouded Ruins
+044	Wormadam	Bug/Grass, Bug/Ground, Bug/Steel	
+Alabaster Icelands
+Bonechill Wastes, Glacier Terrace, Lake Acuity, Avalanche Slopes
+Obsidian Fieldlands
+Grueling Grove, Sandgem Flats
+Coronet Highlands
+Heavenward Lookout, Celestica Trail, Celestica Ruins, Stonetooth Rows
+Cobalt Coastlands
+Ginkgo Landing, Crossing Slope, Veilstone Cape, Bathers' Lagoon
+Crimson Mirelands
+Golden Lowlands, Gapejaw Bog
+045	Mothim	Bug/Flying	
+Obsidian Fieldlands
+Grueling Grove
+Coronet Highlands
+Wayward Wood
+Cobalt Coastlands
+Ginkgo Landing, Veilstone Cape, Aipom Hill, Spring Path
+046	Geodude	Rock/Ground	
+Obsidian Fieldlands
+Deertrack Heights, Worn Bridge, Oreburrow Tunnel
+Coronet Highlands
+Bolderoll Ravine, Clamberclaw Cliffs, Celestica Ruins
+Cobalt Coastlands
+Ginkgo Landing, Veilstone Cape, Aipom Hill, Bathers' Lagoon
+Crimson Mirelands
+Gapejaw Bog, Scarlet Bog, Ursa’s Ring, Bolderoll Slope
+047	Graveler	Rock/Ground	
+Alabaster Icelands
+Snowpoint Temple
+Obsidian Fieldlands
+Oreburrow Tunnel, Sandgem Flats
+Coronet Highlands
+Heavenward Lookout, Bolderoll Ravine, Clamberclaw Cliffs, Celestica Ruins
+Cobalt Coastlands
+Windbreak Stand, Firespit Island, Islespy Shore, Spring Path
+Crimson Mirelands
+Gapejaw Bog, Scarlet Bog, Ursa’s Ring, Bolderoll Slope
+048	Golem	Rock/Ground	
+Coronet Highlands
+Bolderoll Ravine
+049	Stantler	Normal	
+Obsidian Fieldlands
+Glacier Terrace
+Obsidian Fieldlands
+Deertrack Heights
+Coronet Highlands
+Wayward Wood
+Cobalt Coastlands
+Windbreak Stand
+050	Wyrdeer	Normal/Psychic	
+Evolve Stantler
+051	Munchlax	Normal	
+Alabaster Icelands
+Snowfall Hot Spring
+Obsidian Fieldlands
+Deertrack Heights
+052	Snorlax	Normal	
+Alabaster Icelands
+Snowfall Hot Spring
+Obsidian Fieldlands
+Sandgem Flats
+053	Paras	Bug/Grass	
+Obsidian Fieldlands
+Nature’s Pantry
+Coronet Highlands
+Heavenward Lookout, Wayward Wood
+Cobalt Coastlands
+Windbreak Stand
+Crimson Mirelands
+Golden Lowlands, Diamond Heath, Cloudpool Ridge, Cottonsedge Prairie
+054	Parasect	Bug/Grass	
+Obsidian Fieldlands
+Nature’s Pantry
+Coronet Highlands
+Heavenward Lookout, Wayward Wood
+Cobalt Coastlands
+Windbreak Stand
+Crimson Mirelands
+Golden Lowlands, Diamond Heath, Cloudpool Ridge, Cottonsedge Prairie
+055	Pichu	Electric	
+Obsidian Fieldlands
+Floaro Gardens, Nature’s Pantry
+Crimson Mirelands
+Golden Lowlands
+056	Pikachu	Electric	
+Obsidian Fieldlands
+Nature’s Pantry
+Cobalt Coastlands
+Windbreak Stand
+Crimson Mirelands
+Golden Lowlands
+057	Raichu	Electric	
+Crimson Mirelands
+Golden Lowlands
+058	Abra	Psychic	
+Alabaster Icelands
+Lake Acuity
+Obsidian Fieldlands
+Windswept Run, Sandgem Flats
+059	Kadabra	Psychic	
+Alabaster Icelands
+Lake Acuity
+Obsidian Fieldlands
+Sandgem Flats
+060	Alakazam	Psychic	
+Obsidian Fieldlands
+Sandgem Flats
+061	Chimchar	Fire	
+Obsidian Fieldlands
+Deertrack Heights, Ramanas Island
+062	Monferno	Fire/Fighting	
+Obsidian Fieldlands
+Ramanas Island
+063	Infernape	Fire/Fighting	
+Obsidian Fieldlands
+Ramanas Island
+064	Buneary	Normal	
+Alabaster Icelands
+Bonechill Wastes, Snowfall Hot Spring
+Obsidian Fieldlands
+The Heartwood
+065	Lopunny	Normal	
+Alabaster Icelands
+Bonechill Wastes, Snowfall Hot Spring
+Obsidian Fieldlands
+The Heartwood
+066	Cherubi	Grass	
+Coronet Highlands
+Lonely Spring, Fabled Spring, Primeval Grotto (Shaking Trees)
+Crimson Mirelands
+Gapejaw Bog (Shaking Trees)
+See How to Find Cherrim
+067	Cherrim	Grass	
+Coronet Highlands
+Lonely Spring, Fabled Spring, Primeval Grotto (Shaking Trees)
+Crimson Mirelands
+Gapejaw Bog (Shaking Trees)
+See*Obsidian Fieldlands
+The Heartwood (Shaking Trees)
+Coronet Highlands
+Lonely Spring, Fabled Spring, Primeval Grotto (Shaking Trees)
+Crimson Mirelands
+Gapejaw Bog (Shaking Trees)
+See How to Find Cherrim How to Find Cherrim
+068	Psyduck	Water	
+Obsidian Fieldlands
+The Heartwood
+Coronet Highlands
+Wayward Wood, Lonely Spring
+Cobalt Coastlands
+Bathers’ Lagoon
+Crimson Mirelands
+Golden Lowlands, Gapejaw Bog, Holm of Trials
+069	Golduck	Water	
+Coronet Highlands
+Wayward Wood, Lonely Spring
+Cobalt Coastlands
+Bathers’ Lagoon, Spring Path
+Crimson Mirelands
+Holm of Trials
+070	Combee	Bug/Flying	
+Obsidian Fieldlands
+The Heartwood, Grueling Grove, Ramanas Island
+Cobalt Coastlands
+Aipom Hill
+Crimson Mirelands
+Cloudpool Ride, Lake Valore, Cottonsedge Prairie, Droning Meadow
+071	Vespiquen	Bug/Flying	
+Crimson Mirelands
+Lake Valore, Cottonsedge Prairie, Droning Meadow
+072	Scyther	Bug/Flying	
+Obsidian Fieldlands
+Grandtree Arena
+Coronet Highlands
+Primeval Grotto
+073	Kleavor	Bug/Rock	
+Evolve Scyther
+074	Scizor	Bug/Steel	
+Evolve Scyther
+075	Heracross	Bug/Fighting	
+Obsidian Fieldlands
+Grueling Grove
+Coronet Highlands
+Wayward Wood
+076	Mime Jr.	Psychic/Fairy	
+Obsidian Fieldlands
+Horseshoe Plains, Sandgem Flats
+077	Mr. Mime	Psychic/Fairy	
+Obsidian Fieldlands
+Sandgem Flats
+078	Aipom	Normal	
+Alabaster Icelands
+Whiteout Valley, Glacier Terrace, Snowfall Hot Spring, Heart's Crag
+Obsidian Fieldlands
+Ramanas Island
+Cobalt Coastlands
+Aipom Hill, Hideaway Bay
+079	Ambipom	Normal	
+Alabaster Icelands
+Avalanche Slopes, Arena' Approach, Heart's Crag
+Cobalt Coastlands
+Aipom Hill, Hideaway Bay
+080	Magikarp	Water	
+Obsidian Fieldlands
+Obsidian Falls, Lake Verity
+Coronet Highlands
+Fabled Spring
+081	Gyarados	Water/Flying	
+Obsidian Fieldlands
+Obsidian Falls, Lake Verity
+Coronet Highlands
+Promeval Grotto
+Cobalt Coastlands
+Sand's Reach
+082	Shellos	Water	
+Obsidian Fieldlands
+Sandgem Flats, Ramanas Island
+Cobalt Coastlands
+Tranquility Cove, Seagrass Haven
+083	Gastrodon	Water/Ground	
+Obsidian Fieldlands
+Sandgem Flats, Ramanas Island
+Cobalt Coastlands
+Seagrass Haven
+084	Qwilfish	Dark/Poison	
+Obsidian Fieldlands
+Ramanas Island
+Cobalt Coastlands
+Tranquility Cove, Lunker's Lair, Islespy Shore
+085	Overqwil	Dark/Poison	
+Evolve Qwilfish
+086	Happiny	Normal	
+Alabaster Icelands
+Avalanche Slopes
+Obsidian Fieldlands
+Oreburrow Tunnel, Obsidian Falls
+Cobalt Coastlands
+Hideaway Bay
+087	Chansey	Normal	
+Alabaster Icelands
+Avalanche Slopes
+Obsidian Fieldlands
+Obsidian Falls
+Cobalt Coastlands
+Hideaway Bay, Tombolo Walk
+088	Blissey	Normal	
+Alabaster Icelands
+Avalanche Slopes
+Obsidian Fieldlands
+Obsidian Falls
+089	Budew	Grass/Poison	
+Coronet Highlands
+Fabled Spring
+Crimson Mirelands
+Golden Lowlands, Gapejaw Bog
+090	Roselia	Grass/Poison	
+Coronet Highlands
+Fabled Spring
+Crimson Mirelands
+Golden Lowlands, Gapejaw Bog
+091	Roserade	Grass/Poison	
+Crimson Mirelands
+Cloudpool Ridge
+092	Carnivine	Grass	
+Coronet Highlands
+Lonely Spring
+Crimson Mirelands
+Golden Lowlands, Gapejaw Bog, Cloudpool Ridge, Holm of Trials
+093	Petilil	Grass	
+Crimson Mirelands
+Cottonsedge Prairie, Holm of Trials
+094	Hisuian Lilligant	Grass/Fighting	
+Evolve Petilil
+095	Tangela	Grass	
+Cobalt Coastlands
+Crossing Slope
+Crimson Mirelands
+Gapejaw Bog
+096	Tangrowth	Grass	
+Crimson Mirelands
+Gapejaw Bog
+097	Barboach	Water/Ground	
+Coronet Highlands
+Wayward Cave
+Crimson Mirelands
+Gapejaw Bog, Lake Valor
+098	Whiscash	Water/Ground	
+Coronet Highlands
+Wayward Cave
+Crimson Mirelands
+Gapejaw Bog, Lake Valor
+099	Croagunk	Poison/Fighting	
+Coronet Highlands
+Ancient Quarry
+Crimson Mirelands
+Gapejaw Bog, Scarlet Bog, Holm of Trials
+100	Toxicroak	Poison/Fighting	
+Coronet Highlands
+Ancient Quarry
+Cobalt Coastlands
+Spring Path
+Crimson Mirelands
+Holm of Trials
+101	Ralts	Psychic/Fairy	
+Alabaster Icelands
+Heart's Crag, Snowpoint Temple
+Crimson Mirelands
+Gapejaw Bog, Shrouded Ruins
+102	Kirlia	Psychic/Fairy	
+Alabaster Icelands
+Heart's Crag, Snowpoint Temple
+Crimson Mirelands
+Shrouded Ruins
+103	Gardevoir	Psychic/ Fairy	
+Alabaster Icelands
+Heart's Crag
+104	Gallade	Psychic/Fighting	
+Alabaster Icelands
+Snowpoint Temple
+105	Yanma	Bug/Flying	
+Coronet Highlands
+Heavenward Lookout
+Crimson Mirelands
+Gapejaw Bog, Ursa's Ring, Droning Meadow
+106	Yanmega	Bug/Flying	
+Coronet Highlands
+Heavenward Lookout
+Crimson Mirelands
+Droning Meadow
+107	Hippopotas	Ground	
+Coronet Highlands
+Celestica Trail
+Crimson Mirelands
+Sludge Mound, Scarlet Bog
+108	Hippowdon	Ground	
+Coronet Highlands
+Celestica Trail
+Crimson Mirelands
+Sludge Mound, Scarlet Bog
+109	Pachirisu	Electric	
+Crimson Mirelands
+Droning Meadow
+110	Stunky	Poison/Dark	
+Coronet Highlands
+Ancient Quarry
+Crimson Mirelands
+Scarlet Bog
+111	Skuntank	Poison/Dark	
+Coronet Highlands
+Ancient Quarry
+Crimson Mirelands
+Scarlet Bog
+112	Teddiursa	Normal	
+Coronet Highlands
+Sonorous Path
+Crimson Mirelands
+Ursa's Ring
+113	Ursaring	Normal	
+Coronet Highlands
+Sonorous Path
+Crimson Mirelands
+Ursa's Ring
+114	Ursaluna	Ground/Normal	
+Evolve Ursaring
+115	Goomy	Dragon	
+Coronet Highlands
+Ancient Quarry
+Crimson Mirelands
+Holm of Trials
+116	Hisuian Sliggoo	Dragon/Steel	
+Coronet Highlands
+Ancient Quarry
+Crimson Mirelands
+Holm of Trials
+117	Hisuian Goodra	Dragon/Steel	
+Coronet Highlands
+Ancient Quarry
+118	Onix	Rock/Ground	
+Coronet Highlands
+Celestica Trail
+Crimson Mirelands
+Scarlet Bog, Bolderoll Slope, Lake Valor
+119	Steelix	Steel/Ground	
+Coronet Highlands
+Celestica Trail
+120	Rhyhorn	Ground/Rock	
+Coronet Highlands
+Celestica Trail, Sacred Plaza
+Crimson Mirelands
+Bolderoll Slope, Diamond Heath, Shrouded Ruins
+121	Rhydon	Ground/Rock	
+Coronet Highlands
+Celestica Trail, Sacred Plaza
+122	Rhyperior	Ground/Rock	
+Coronet Highlands
+Sacred Plaza
+123	Bonsly	Rock	
+Coronet Highlands
+Celestica Trail
+Crimson Mirelands
+Cloudpool Ridge
+124	Sudowoodo	Rock	
+Coronet Highlands
+Celestica Trail
+Crimson Mirelands
+Cloudpool Ridge
+125	Lickitung	Normal	
+Alabaster Icelands
+Snowfall Hot Spring, Avalanche Slopes
+Crimson Mirelands
+Shrouded Ruins
+126	Lickilicky	Normal	
+Alabaster Icelands
+Avalanche Slopes
+Crimson Mirelands
+Shrouded Ruins
+127	Togepi	Fairy	
+Cobalt Coastlands
+Bathers' Lagoon, Tranquility Cove
+Crimson Mirelands
+Cottonsedge Prairie
+128	Togetic	Fairy/Flying	
+Cobalt Coastlands
+Tranquility Cove
+Crimson Mirelands
+Bolderoll Slope, Cottonsedge Prairie
+129	Togekiss	Fairy/Flying	
+Obsidian Fieldlands
+Lake Verity
+130	Turtwig	Grass	
+Crimson Mirelands
+Droning Meadow
+131	Grotle	Grass	
+Crimson Mirelands
+Droning Meadow
+132	Torterra	Grass/Ground	
+Crimson Mirelands
+Holm of Trials
+133	Porygon	Normal	
+Crimson Mirelands
+Space-time Distortions
+134	Porygon2	Normal	
+Evolve Porygon
+135	Porygon3	Normal	
+Evolve Porygon2
+136	Gastly	Ghost/Poison	
+Alabaster Icelands
+Bonechill Wastes
+Coronet Highlands
+Bolderoll Ravine, Sacred Plaza, Celestica Ruins
+Crimson Mirelands
+Golden Lowlands, Gapejaw Bog, Scarlet Bog, Shrouded Ruins
+137	Haunter	Ghost/Poison	
+Alabaster Icelands
+Bonechill Wastes
+Coronet Highlands
+Bolderoll Ravine, Sacred Plaza, Celestica Ruins
+Crimson Mirelands
+Gapejaw Bog, Scarlet Bog, Shrouded Ruins, Cottonsedge Prairie
+138	Gengar	Ghost/Poison	
+Evolve Haunter
+Obsidian Fieldlands
+Space-time Distortion
+139	Spiritomb	Ghost/Dark	
+Collect All 107 Wisps
+140	Murkrow	Dark/Flying	
+Cobalt Coastlands
+Crossing Slope, Veilstone Cape, Hideaway Bay, Islespy Shore
+Crimson Mirelands
+Cloudpool Ridge
+141	Honchkrow	Dark/Flying	
+Cobalt Coastlands
+Bathers' Lagoon
+Crimson Mirelands
+Cloudpool Ridge
+142	Unown	Psychic	Specific collectible locations
+143	Spheal	Ice/Water	
+Cobalt Coastlands
+Ginkgo Landing
+144	Sealeo	Ice/Water	
+Cobalt Coastlands
+Islespy Shore
+145	Walrein	Ice/Water	
+Cobalt Coastlands
+Ginkgo Landing, Islespy Shore
+146	Remoraid	Water	
+Cobalt Coastlands
+Castaway Shore, Sand's Reach, Tranquility Cove
+147	Octillery	Water	
+Cobalt Coastlands
+Castaway Shore, Islespy Shore
+148	Skorupi	Poison/Bug	
+Cobalt Coastlands
+Ginkgo Landing, Castaway Shore
+149	Drapion	Poison/Dark	
+Cobalt Coastlands
+Ginkgo Landing
+150	Hisuian Growlithe	Fire/Rock	
+Cobalt Coastlands
+Windbreak Stand, Veilstone Cape
+151	Hisuian Arcanine	Fire/Rock	
+Evolve Hisuian Growlithe.
+152	Glameow	Normal	
+Alabaster Icelands
+Glacier Terrace
+Cobalt Coastlands
+Crossing Slope, Veilstone Cape
+153	Purugly	Normal	
+Alabaster Icelands
+Glacier Terrace
+Cobalt Coastlands
+Crossing Slope, Veilstone Cape
+154	Machop	Fighting	
+Alabaster Icelands
+Icebound Falls, Arena's Approach, Snowfall Hot Spring
+Obsidian Fieldlands
+Oreburrow Tunnel, Obsidian Falls
+Coronet Highlands
+Bolderoll Ravine, Cloudcap Pass
+Cobalt Coastlands
+Castaway Shore
+155	Machoke	Fighting	
+Alabaster Icelands
+Icebound Falls, Arena's Approach, Snowfall Hot Spring
+Obsidian Fieldlands
+Obsidian Falls
+Coronet Highlands
+Bolderoll Ravine, Cloudcap Pass
+Cobalt Coastlands
+Castaway Shore
+156	Machamp	Fighting	
+Alabaster Icelands
+Arena's Approach
+157	Chatot	Normal/Flying	
+Cobalt Coastlands
+Deadwood Haunt (Day, after Setting Up the Coastlands Camp)
+158	Duskull	Ghost	
+Alabaster Icelands
+Avalanche Slopes, Arena's Approach
+Cobalt Coastlands
+Deadwood Haunt
+159	Dusclops	Ghost	
+Alabaster Icelands
+Avalanche Slopes, Arena's Approach
+Cobalt Coastlands
+Deadwood Haunt
+160	Dusknoir	Ghost	
+Cobalt Coastlands
+Deadwood Haunt
+161	Piplup	Water	
+Cobalt Coastlands
+Spring Path
+162	Prinplup	Water	
+Cobalt Coastlands
+Spring Path
+163	Empoleon	Water/Steel	
+Cobalt Coastlands
+Islespy Shore
+164	Mantyke	Water/Flying	
+Cobalt Coastlands
+Ginkgo Landing, Tranquility Cove
+165	Mantine	Water/Flying	
+Cobalt Coastlands
+Tranquility Cove
+166	Basculin	Water	
+Alabaster Icelands
+Lake Acuity, Heart's Crag
+Coronet Highlands
+Fabled Spring
+Cobalt Coastlands
+Tranquility Cove, Islespy Shore
+167	Basculegion	Water/Ghost	
+Evolve Basculin
+168	Vulpix	Fire	
+Cobalt Coastlands
+Veilstone Cape
+168	Alolan Vulpix	Ice	
+Alabaster Icelands
+169	Ninetales	Fire	
+Cobalt Coastlands
+Firespit Island
+169	Alolan Ninetales	Ice	Evolve Alolan Vulpix
+170	Tentacool	Water/Poison	
+Cobalt Coastlands
+Lunker's Lair, Seagrass Haven, Islespy Shore
+171	Tentacruel	Water/Poison	
+Cobalt Coastlands
+Lunker's Lair, Seagrass Haven, Islespy Shore
+172	Finneon	Water	
+Cobalt Coastlands
+Seagrass Haven
+173	Lumineon	Water	
+Cobalt Coastlands
+Seagrass Haven
+174	Magby	Fire	
+Cobalt Coastlands
+Firespit Island
+175	Magmar	Fire	
+Cobalt Coastlands
+Firespit Island
+176	Magmortar	Fire	
+Evolve Magmar.
+177	Magnemite	Electric/Steel	
+Cobalt Coastlands
+Space-time Distortions
+178	Magneton	Electric/Steel	
+Cobalt Coastlands
+Space-time Distortions
+179	Magnezone	Electric/Steel	
+Coronet Highlands
+Celestica Trail, Fabled Spring, Clamberclaw Cliffs
+180	Bronzor	Steel/Psychic	
+Alabaster Icelands
+Lake Acuity, Snowpoint Temple
+Coronet Highlands
+Ancient Quarry, Clamberclaw Cliffs, Stonetooth Rows, Celestica Ruins
+181	Bronzong	Steel/Psychic	
+Alabaster Icelands
+Lake Acuity, Snowpoint Temple
+Coronet Highlands
+Ancient Quarry, Clamberclaw Cliffs, Stonetooth Rows, Celestica Ruins
+182	Elekid	Electric	
+Alabaster Icelands
+Arena's Approach, Icebound Falls
+Coronet Highlands
+Cloudcap Pass
+183	Electabuzz	Electric	
+Alabaster Icelands
+Arena's Approach, Icebound Falls
+Coronet Highlands
+Cloudcap Pass
+184	Electivire	Electric	
+Coronet Highlands
+Cloudcap Pass
+185	Gligar	Ground/Flying	
+Alabaster Icelands
+Glacier Terrace, Arena’s Approach
+Coronet Highlands
+Clamberclaw Cliffs, Celestica Ruins, Cloudcap Pass, Primeval Grotto
+186	Gliscor	Ground/Flying	
+Coronet Highlands
+Primeval Grotto
+187	Gible	Dragon/ Ground	
+Alabaster Icelands
+Avalanche Slopes
+Coronet Highlands
+Wayward Cave, Clamberclaw Cliffs
+188	Gabite	Dragon/Ground	
+Alabaster Icelands
+Avalanche Slopes
+Coronet Highlands
+Clamberclaw Cliffs
+189	Garchomp	Dragon/Ground	
+Alabaster Icelands
+Avalanche Slopes
+190	Nosepass	Rock	
+Coronet Highlands
+Celestica Ruins, Primeval Grotto
+191	Probopass	Rock/Steel	
+Coronet Highlands
+Primeval Grotto
+192	Hisuian Voltorb	Electric/Grass	
+Coronet Highlands
+Sacred Plaza
+193	Hisuian Electrode	Electric/Grass	
+Evolve Voltorb
+194	Rotom	Electric/Ghost	
+Coronet Highlands
+Stonetooth Rows, Sacred Plaza
+195	Chingling	Psychic	
+Alabaster Icelands
+Lake Acuity
+Coronet Highlands
+Sacred Plaza
+196	Chimecho	Psychic	
+Alabaster Icelands
+Lake Acuity
+Coronet Highlands
+Celestica Trail
+197	Misdreavus	Ghost	
+Alabaster Icelands (Night)
+Bonechill Wastes
+Coronet Highlands (Night)
+Stonetooth Rows, Sacred Plaza, Celestica Ruins
+198	Mismagius	Ghost	
+Coronet Highlands (Night)
+Stonetooth Rows
+199	Cleffa	Fairy	
+Coronet Highlands (Night)
+Fabled Spring
+200	Clefairy	Fairy	
+Coronet Highlands (Night)
+Fabled Spring
+201	Clefable	Fairy	
+Coronet Highlands (Night)
+Fabled Spring
+202	Hisuian Sneasel	Fighting/Poison	
+Alabaster Icelands
+Avalugg's Legacy, Glacier Terrace
+Coronet Highlands
+Celestica Trail, Primeval Grotto
+202	Sneasel	Dark/Ice	
+Obsidian Fieldlands
+Space-time Distortions
+203	Sneasler	Fighting/Poison	
+Evolve Hisuian Sneasel
+204	Weavile	Dark/Ice	
+Obsidian Fieldlands
+Space-time Distortions
+Evolve Sneasel
+205	Snorunt	Ice	
+Alabaster Icelands
+Whiteout Valley, Bonechill Wastes, Avalugg's Legacy, Avalanche Slopes
+206	Glalie	Ice	
+Alabaster Icelands
+Bonechill Wastes, Avalugg's Legacy, Avalanche Slopes, Snowpoint Temple
+207	Froslass	Ice/Ghost	
+Alabaster Icelands
+Bonechill Wastes, Avalugg's Legacy, Avalanche Slopes
+208	Cranidos	Rock	
+Coronet Highlands
+Space-time Distortions
+209	Rampardos	Rock	
+Coronet Highlands
+Space-time Distortions
+210	Shieldon	Rock/Steel	
+Coronet Highlands
+Space-time Distortions
+211	Bastiodon	Rock/Steel	
+Coronet Highlands
+Space-time Distortions
+212	Swinub	Ice/Ground	
+Alabaster Icelands
+Bonechill Wastes, Avalugg's Legacy, Avalanche Slopes
+213	Piloswine	Ice/Ground	
+Alabaster Icelands
+Bonechill Wastes, Avalugg's Legacy, Avalanche Slopes
+214	Mamoswine	Ice/Ground	
+Alabaster Icelands
+Avalugg's Legacy
+215	Bergmite	Ice	
+Alabaster Icelands
+Avalugg's Legacy, Arena's Approach
+216	Hisuian Avalugg	Ice/Rock	
+Alabaster Icelands
+Avalugg's Legacy
+217	Snover	Ice/Grass	
+Alabaster Icelands
+Avalugg's Legacy, Glacier Terrace
+218	Abomasnow	Ice/Grass	
+Alabaster Icelands
+Avalugg's Legacy, Glacier Terrace
+219	Hisuian Zorua	Normal/Ghost	
+Alabaster Icelands
+Bonechill Wastes
+220	Hisuian Zoroark	Normal/Ghost	
+Alabaster Icelands
+Bonechill Wastes
+221	Rufflet	Normal/Flying	
+Alabaster Icelands
+Lake Acuity, Heart's Crag
+222	Hisuian Braviary	Psychic/Flying	
+Alabaster Icelands
+Lake Acuity
+223	Riolu	Fighting	
+Alabaster Icelands
+Icebound Falls, Snowfall Hot Spring
+224	Lucario	Fighting/Steel	
+Alabaster Icelands
+Icebound Falls, Snowfall Hot Spring
+225	Uxie	Psychic	
+First complete The Trial of Lake Acuity, then return to Lake Acuity
+226	Mesprit	Psychic	
+First complete The Trial of Lake Verity, then return to Lake Verity
+227	Azelf	Psychic	
+First complete The Trial of Lake Valor, then return to Lake Valor
+228	Heatran	Fire/Steel	
+Research Mision - The Plate of Firespit Island
+229	Regigigas	Normal	
+Research Mission - The Plate of Snowpoint Temple
+230	Cresselia	Psychic	
+Research Mission - The Plate of Moonview Arena
+231	Tornadus	Flying	Complete main mission #25 then start request #94. Then:
+Alabaster Icelands
+Bonechill Wastelands - Snowstorm
+232	Thundurus	Electric/Flying	Complete main mission #25 then start request #94. Then:
+Cobalt Coastlands
+Open sea east of Tranquility Cove - Thunderstorm
+233	Landorus	Ground/Flying	Complete main mission #25 then startrequest #94. Then:
+Obsidian Fieldlands
+Ramanas Island
+234	Enamorus	Fairy/Flying	Complete main mission #25 then complete request #94to a certain point, then:
+Crimson Mirelands
+Scarlet Bog
+235	Dialga	Steel/Dragon	Complete final two main missions: Atop Mount Coronet and/or The Counterpart
+236	Palkia	Water/Dragon	Complete final two main missions: Atop Mount Coronet and/or The Counterpart
+237	Giratina	Ghost/Dragon	Complete main mission #25 then request #91
+238	Arceus	Normal	See How to Get Arceus
+239	Phione	Water	See The Sea's Legend - How to Get Manaphy
+240	Manaphy	Water	See The Sea's Legend - How to Get Manaphy
+241	Shaymin	Grass	See How to Get Shaymin
+242	Darkrai	Dark	See How to Get Darkrai
